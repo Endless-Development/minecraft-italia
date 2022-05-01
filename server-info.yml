@@ -1,0 +1,63 @@
+---
+name: "Endless Network"
+slug: "endless"
+hidden: false
+versions:
+  - "1.8"
+  - "1.9"
+  - "1.10"
+  - "1.11"
+  - "1.12"
+  - "1.13"
+  - "1.14"
+  - "1.15"
+  - "1.16"
+  - "1.17"
+  - "1.18"
+categories:
+  - "survival"
+  - "pvp"
+  - "minigames"
+staff:
+  - Founder:
+    - "7c96cb6e2fc243d9b33469c92e9d4550"
+    - "e02238f501ab457a91562edaf1b2c546"
+    - "260397fbcd954fc4ba31ed48be93675d"
+  - SrAdmin:
+    - "d77600eae37340c2abfb0b975b87fd05"
+  - Supervisore:
+    - "df178962a40041bcbc53c5f97224990d"
+  - Developer:
+    - "424099c47e754d30b6e85bd0499cb514"
+  - Moderatore:
+    - "7fd9645957384de18d4dcfee909228f9"
+  - Helper:
+    - "c4a3b2e323f94ba08f05a0d55769d88b"
+discord_user: "530817199632416778"
+www: "http://www.endlessnetwork.it/"
+forum: ""
+telegram: ""
+discord: "https://discord.gg/PCuG7KUSDM"
+twitter: ""
+instagram: ""
+teamspeak: ""
+mumble: ""
+query_port: 25565
+theme_color: "#cd0000"
+meta_description: "Un nuovo server Survival e PvP, per Java e Bedrock"
+---
+![Banner del server](https://i.imgur.com/Mhe6QAM.png)
+
+# Ecco le nostre modalità
+Nuove modalità verranno aggiunte in futuro
+
+![Titolo Survival](https://i.imgur.com/5UBd0Yt.png)
+Una sopravvivenza con molte novità: Un mondo custom molto grande dove sarai libero di costruire, il pvp è opzionale e puoi disattivarlo con /pvp.
+Troverai anche armi e veicoli funzionanti, degli shop dove comprare degli oggetti, e un sistema di aste per vendere i tuoi oggetti agli altri giocatori.
+Non dovrai preoccuparti di essere griefato perchè potrai claimare il tuo territorio, e potrai collaborare con i tuoi amici.
+
+![Titolo MLG Rush](https://i.imgur.com/4dLK8f1.png)
+Una modalità pvp dove l'obbiettivo è rompere il letto al tuo avversario segnando punti, fino a vincere, per riuscirci dovrai combattere con lui e avrai blocchi infiniti per costruire e clutchare
+
+![Titolo KnockFFA](https://i.imgur.com/zrFAaRz.png)
+In questa modalità tutti contro tutti ti troverai in un arena competitiva con blocchi per costruire, e uno stick con knockback, dovrai spingere i tuoi avversari giù nel vuoto cercando di non morire
