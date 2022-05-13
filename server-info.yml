@@ -25,14 +25,24 @@ staff:
     - "260397fbcd954fc4ba31ed48be93675d"
   - SrAdmin:
     - "d77600eae37340c2abfb0b975b87fd05"
+  - Admin:
+    - "charizard45"
   - Supervisore:
     - "df178962a40041bcbc53c5f97224990d"
   - Developer:
     - "424099c47e754d30b6e85bd0499cb514"
+  - CapoMod:
+    - "a"
+  - SrMod:
+    - "279c5c6f65554baa960150e13dc3332a"
   - Moderatore:
     - "7fd9645957384de18d4dcfee909228f9"
+    - "865f1b6fa03c473c9bb9f06266c4f931"
   - Helper:
     - "c4a3b2e323f94ba08f05a0d55769d88b"
+    - "3c773694860e48588dd3c7e95c888f3d"
+    - "a69fc73ebb6f4a8cbdab6b707b98168a"
+    - "49109c70dcd540d6969f7c9116126373"
 discord_user: "530817199632416778"
 www: "http://www.endlessnetwork.it/"
 forum: ""
